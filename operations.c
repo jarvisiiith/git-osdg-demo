@@ -6,3 +6,7 @@ int main(int argc, char const *argv[])
 {
     return 0;
 }
+
+int diff(int a, int b) {
+    return a - b;
+}
